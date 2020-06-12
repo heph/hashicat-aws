@@ -10,8 +10,8 @@ cat << EOM > /var/www/html/index.html
 
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
-  <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. Replace this text with your own.
+  <center><h2>Veridian Dynamics</h2></center>
+  Every day, something we make makes your life better. Power. We make that. Technology. We make that. Cows. Well, no. We don't make cows, although we have made a sheep. And medicines, and airplane engines, and whatever this is, and all sorts of things. Veridian Dynamics. Every day, something we make makes your life better. Usually.
   <!-- END -->
 
   </div>
